@@ -41,7 +41,7 @@ class MainActivity : AppCompatActivity() {
             culculate()
         }
 
-        //fuck yyyyyyyeeeeeeeeeaaaaaaaaaa, i am so fucking hard right now, fucking menu
+        
         this.setSupportActionBar(findViewById(R.id.materialToolbar))
     }
 
