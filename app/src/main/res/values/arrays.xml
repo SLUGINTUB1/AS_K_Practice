@@ -1,0 +1,8 @@
+<resources>
+    <string-array name="operations">
+        <item>Add</item>
+        <item>Subtract</item>
+        <item>Multiply</item>
+        <item>Divide</item>
+    </string-array>
+</resources>
